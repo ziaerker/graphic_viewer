@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/elmae/vscode_projects/graphic_viewer/src/glad.c" "CMakeFiles/graphic_viewer.dir/src/glad.c.obj" "gcc" "CMakeFiles/graphic_viewer.dir/src/glad.c.obj.d"
   "C:/Users/elmae/vscode_projects/graphic_viewer/src/main.cpp" "CMakeFiles/graphic_viewer.dir/src/main.cpp.obj" "gcc" "CMakeFiles/graphic_viewer.dir/src/main.cpp.obj.d"
   )
 

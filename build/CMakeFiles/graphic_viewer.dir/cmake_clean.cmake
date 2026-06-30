@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/graphic_viewer.dir/src/glad.c.obj"
+  "CMakeFiles/graphic_viewer.dir/src/glad.c.obj.d"
   "CMakeFiles/graphic_viewer.dir/src/main.cpp.obj"
   "CMakeFiles/graphic_viewer.dir/src/main.cpp.obj.d"
   "graphic_viewer.exe"
@@ -8,6 +10,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C CXX)
   include(CMakeFiles/graphic_viewer.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

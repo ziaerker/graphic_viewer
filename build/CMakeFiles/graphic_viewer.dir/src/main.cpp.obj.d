@@ -1,15 +1,17 @@
 CMakeFiles/graphic_viewer.dir/src/main.cpp.obj: \
  C:\Users\elmae\vscode_projects\graphic_viewer\src\main.cpp \
- C:/Users/elmae/vscode_projects/graphic_viewer/libs/glfw-3.4/include/GLFW/glfw3.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
- C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/Users/elmae/vscode_projects/graphic_viewer/include/glad/glad.h \
+ C:/Users/elmae/vscode_projects/graphic_viewer/include/KHR/khrplatform.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/crtdefs.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/_mingw_mac.h \
  C:/msys64/mingw64/include/_mingw_secapi.h \
  C:/msys64/mingw64/include/vadefs.h \
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
- C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/GL/gl.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h \
+ C:/Users/elmae/vscode_projects/graphic_viewer/libs/glfw-3.4/include/GLFW/glfw3.h \
  C:/msys64/mingw64/include/c++/14.2.0/iostream \
  C:/msys64/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
  C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \

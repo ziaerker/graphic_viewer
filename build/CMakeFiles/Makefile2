@@ -150,12 +150,12 @@ libs/glfw-3.4/src/clean: libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/clean
 CMakeFiles/graphic_viewer.dir/all: libs/glfw-3.4/src/CMakeFiles/glfw.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\graphic_viewer.dir\build.make CMakeFiles/graphic_viewer.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\graphic_viewer.dir\build.make CMakeFiles/graphic_viewer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=23,24 "Built target graphic_viewer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=23,24,25 "Built target graphic_viewer"
 .PHONY : CMakeFiles/graphic_viewer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/graphic_viewer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles 24
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles 25
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/graphic_viewer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles 0
 .PHONY : CMakeFiles/graphic_viewer.dir/rule
@@ -167,7 +167,7 @@ graphic_viewer: CMakeFiles/graphic_viewer.dir/rule
 # codegen rule for target.
 CMakeFiles/graphic_viewer.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\graphic_viewer.dir\build.make CMakeFiles/graphic_viewer.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=23,24 "Finished codegen for target graphic_viewer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=23,24,25 "Finished codegen for target graphic_viewer"
 .PHONY : CMakeFiles/graphic_viewer.dir/codegen
 
 # clean rule for target.
@@ -246,7 +246,7 @@ libs/glfw-3.4/src/CMakeFiles/glfw.dir/clean:
 libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/all:
 	$(MAKE) $(MAKESILENT) -f libs\glfw-3.4\src\CMakeFiles\update_mappings.dir\build.make libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/depend
 	$(MAKE) $(MAKESILENT) -f libs\glfw-3.4\src\CMakeFiles\update_mappings.dir\build.make libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=25 "Built target update_mappings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=26 "Built target update_mappings"
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/all
 
 # Build rule for subdir invocation for target.
@@ -263,7 +263,7 @@ update_mappings: libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/rule
 # codegen rule for target.
 libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f libs\glfw-3.4\src\CMakeFiles\update_mappings.dir\build.make libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=25 "Finished codegen for target update_mappings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\elmae\vscode_projects\graphic_viewer\build\CMakeFiles --progress-num=26 "Finished codegen for target update_mappings"
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/codegen
 
 # clean rule for target.
